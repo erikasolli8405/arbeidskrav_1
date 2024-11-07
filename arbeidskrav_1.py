@@ -44,5 +44,3 @@ kostnadsdifferanse = bensinbil_total_kostnader_år - elbil_total_kostnader_år
 print ("Årlige kostnader for elbil =", elbil_total_kostnader_år)
 print ("Årlige kostnader for bensinbil =", bensinbil_total_kostnader_år)
 print ("årlig kostnadsdifferanse =", int(kostnadsdifferanse))
-
-
